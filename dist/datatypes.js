@@ -33,6 +33,7 @@ var Color;
 })(Color || (Color = {}));
 let c = Color.blue;
 console.log(c);
+console.timeLog;
 let swapNumbs;
 function swapNumbers(num1, num2) {
     return [num2, num1];
@@ -45,3 +46,4 @@ department = "100";
 department = "ITS";
 department = "ATS";
 console.log(department);
+//# sourceMappingURL=datatypes.js.map
